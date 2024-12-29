@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pixel-art-grid/static/css/main.2d161085.css",
+    "main.js": "/Pixel-art-grid/static/js/main.9d6397b4.js",
+    "index.html": "/Pixel-art-grid/index.html",
+    "main.2d161085.css.map": "/Pixel-art-grid/static/css/main.2d161085.css.map",
+    "main.9d6397b4.js.map": "/Pixel-art-grid/static/js/main.9d6397b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d161085.css",
+    "static/js/main.9d6397b4.js"
+  ]
+}
