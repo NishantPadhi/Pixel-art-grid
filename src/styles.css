@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 20px;
+  height: 20px;
+  border: 1px solid rgb(123, 117, 117);
+  cursor: pointer;
+}
+
+.bg-blue {
+  background-color: #2f9de7;
+}
+
+.btn {
+  background-color: rgb(20, 119, 211);
+  padding: 8px;
+  border: 1px solid white;
+  border-radius: 4px;
+  color: #ffffff;
+  margin-top: 16px;
+}
